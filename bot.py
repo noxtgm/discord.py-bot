@@ -29,7 +29,6 @@ async def on_ready():
     print(f'Version {bot_version}')
     print('⊱⋅─────────────────⋅⊰')
     
-    bot.load_extension("cogs.onMessage")
     await bot.change_presence(activity = discord.Activity(type=discord.ActivityType.playing, name = bot_status))
 
 #⊱⋅───────────────────────── [ EVENT ] ──────────────────────────⋅⊰#
