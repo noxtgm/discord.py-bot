@@ -271,6 +271,19 @@ async def ban(ctx, member: discord.Member, *, reason = 'No reason specified'):
     await member.send('You have been banned from **' + member.guild.name + '** for the following reason: *' + reason + '*')
     await member.ban(reason = reason)
 
+# Role - example cmd adding and removing roles
+@client.command()
+async def role(ctx):
+    global members
+    guild = client.get_guild(963933760292794459)
+    removeRole = guild.get_role(986014064671092806)
+    addRole = guild.get_role(986014068047483011)
+    members = [member for member in guild.members if removeRole in member.roles]
+    for member in members:
+        print(member)
+        await member.remove_roles(removeRole)
+        await member.add_roles(addRole)
+
 #⊱⋅────────────────────────── [ RUN ] ─────────────────────────⋅⊰#
 
 bot.run(bot_token) 
