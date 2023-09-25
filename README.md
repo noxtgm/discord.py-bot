@@ -13,4 +13,4 @@ A simple discord.py bot script I found on my hard drive. I'm not using it so if 
 
 ## 🔗 Links
 
-[@NoxTGM on all socials](https://bento.me/noxtgm)
+[@NoxTGM on all socials](https://noxtgm.me)
