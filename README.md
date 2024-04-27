@@ -9,7 +9,7 @@ A dusty discord.py bot script I found on my hard drive. I'm not using it so if i
 
 * Copy paste the source code on any selfhosted discord bot websites that support python
 
-<div align=center style="text-align: center;">OR</div>
+	OR
 
 * Run the script locally with any software that provides Python runtime
 
