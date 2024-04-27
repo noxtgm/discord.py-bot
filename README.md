@@ -9,7 +9,7 @@ A dusty discord.py bot script I found on my hard drive. I'm not using it so if i
 
 * Copy paste the source code on any selfhosted discord bot websites that support python
 
-OR
+<div align=center style="text-align: center;">OR</div>
 
 * Run the script locally with any software that provides Python runtime
 
@@ -17,7 +17,7 @@ OR
 
 <div align=center style="text-align: center;"><h2>LICENSE</h2></div>
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+[Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
 
 ###
 
