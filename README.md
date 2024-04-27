@@ -9,7 +9,9 @@ A dusty discord.py bot script I found on my hard drive. I'm not using it so if i
 <div align=center style="text-align: center;"><h3>INSTALLATION</h3></div>
 
 * Copy paste the source code on any selfhosted discord bot websites that support python
+
 OR
+
 * Run the script locally with any software that provides Python runtime
 
 ###
