@@ -1,6 +1,6 @@
 <div align=center style="text-align: center;">
 <h1>Discord.py Bot</h1>
-A dusty discord.py bot script I found on my hard drive. I'm not using it so if it can help people go ahead and use it. I would recommend making sure the code is not deprecated as it is somewhat old and most likely won't work out of the box.
+A dusty discord.py bot script I found on my hard drive. I'm not using it so if it can help somebody I might as well share it. I would recommend making sure the code is not deprecated as it's pretty old.
 </div>
 
 ###
