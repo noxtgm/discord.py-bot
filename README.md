@@ -9,7 +9,7 @@ A dusty discord.py bot script I found on my hard drive with general-purpose tool
 
 * Paste the source code on any selfhosted Discord bot website supporting Python
 
-	OR
+OR
 
 * Run the script locally with any software that handles Python runtime
 
